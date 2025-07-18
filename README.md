@@ -5,7 +5,7 @@
  ##### Não tinha o costume de usar o GIT para publicar projetos, então não se espante com a minha ausência, 💻
  ##### afinal, antigamente eu apenas usava este perfil para aulas (tanto como aluno, como professor!). 🧑🏿‍🏫
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/getulio-tunis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" /
 </div>
@@ -20,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
