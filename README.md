@@ -5,9 +5,16 @@
  ##### Não tinha o costume de usar o GIT para publicar projetos, então não se espante com a minha ausência, 💻
  ##### afinal, antigamente eu apenas usava este perfil para aulas (tanto como aluno, como professor!). 🧑🏿‍🏫
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/getulio-tunis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" /
+</div>
+  </a>
+</div>
 
+###
 <div align="center">
-   <img src="https://streak-stats.demolab.com?user=getulin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+   <img src="https://streak-stats.demolab.com?user=getulin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=getulin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -27,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
@@ -34,15 +43,7 @@
 </div>
 
 ###
-<div align="left">
-  <a href="https://www.linkedin.com/in/getulio-tunis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" /
-</div>
 
-  </a>
-</div>
-
-###
 
 <br clear="both">
 
