@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/getuliin/getulin/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/getulin/getulin/output/snake.svg" alt="Snake animation" />
 
 ###
