@@ -7,6 +7,7 @@
 
 
 <div align="center">
+   <img src="https://streak-stats.demolab.com?user=getulin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=getulin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -34,7 +35,6 @@
 
 ###
 <div align="left">
-   <img src="https://streak-stats.demolab.com?user=getulin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <a href="https://www.linkedin.com/in/getulio-tunis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" /
 </div>
