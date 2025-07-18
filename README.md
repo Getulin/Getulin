@@ -32,7 +32,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/getulio-tunis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" /
+  <img height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWwwNzIwbzkxdHg0NXhmMmhkcnM4a3NrMzR3ZTM1dWdldjRkNXB5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"  />
+</div>
+
   </a>
 </div>
 
