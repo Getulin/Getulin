@@ -1,8 +1,3 @@
-
-<h1 align="center"> Olá, tudo bem? Meu nome é Getúlio Tunis! 👋</h1>
-
- <p align="center"> Sou um Desenvolvedor Backend que atualmente cursa Física na universidade federal de Santa  Catarina! (sim, física por gosto!) <br>Trabalho na área de programação desde 2022, porém estudo sobre desde 2020! ⏱<br>Não tinha o costume de usar o GIT para publicar projetos, então não se espante com a minha ausência. 💻<br> Afinal, antigamente eu apenas usava este perfil para aulas (tanto como aluno, como professor!). 🧑🏿‍🏫</p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/getulio-tunis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" /
