@@ -27,14 +27,6 @@
 
 ###
 
-<h2 align="center">Git Stats 🔥<h2/>
-<div align="center">
- <img src="https://streak-stats.demolab.com?user=getulin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt=""  />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=getulin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/getulin/getulin/output/pacman-contribution-graph-dark.svg" alt="Pacman" />
